@@ -10,8 +10,6 @@ indexes:
 # automatically uploaded to the admin console when you next deploy
 # your application using appcfg.py.
 
-<<<<<<< HEAD
-=======
 - kind: DeviceRecord
   ancestor: yes
   properties:
@@ -25,13 +23,10 @@ indexes:
   - name: recordentrytime
     direction: desc
 
->>>>>>> 99c82602099b569a8f70d35b6a3a3183587c6395
 - kind: SensorRecord
   ancestor: yes
   properties:
   - name: recordentrytime
     direction: desc
-<<<<<<< HEAD
-=======
   - name: sensorreading
->>>>>>> 99c82602099b569a8f70d35b6a3a3183587c6395
+
